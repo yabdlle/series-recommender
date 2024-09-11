@@ -1,1 +1,1 @@
-# anime-recommender
+#series-recommender
